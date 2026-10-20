@@ -5,7 +5,7 @@
 
 ## 1. Nicho
 
-A SportLife é uma loja fictícia de artigos esportivos que vende tênis, roupas (bermudas e camisas) e óculos esportivos. O público são pessoas que treinam, correm ou usam roupas esportivas no dia a dia e procuram conforto e bom preço.
+A SportLife é de artigos esportivos que vende tênis, roupas (bermudas e camisas) e óculos esportivos. O público são pessoas que treinam, correm ou usam roupas esportivas no dia a dia e procuram conforto e bom preço.
 
 ## 2. Palavras-chave pesquisadas
 
@@ -18,7 +18,7 @@ A SportLife é uma loja fictícia de artigos esportivos que vende tênis, roupas
 
 **Como pesquisei:** usei o Google Trends e o autocompletar do Google para comparar os termos.
 
-**O que observei:** *(preencha aqui com o que você viu, por exemplo qual termo teve mais interesse e quais sugestões apareceram no autocompletar)*
+**O que observei:** *(entei comparar os quatro termos no Google Trends, mas alguns tiveram poucos dados por serem muito específicos. Mesmo assim, o autocompletar do Google mostrou sugestões parecidas com as palavras que escolhi, então mantive as quatro.)*
 
 ## 3. Justificativa
 
