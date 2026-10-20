@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f7fb;
+  color: #1a1a1a;
+}
+header, footer {
+  background-color: #0b3d91;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+nav a {
+  color: #ffd23f;
+  margin: 0 12px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+section {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
